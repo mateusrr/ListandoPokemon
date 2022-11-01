@@ -1,0 +1,32 @@
+body {
+    background-color: darken($color-white, 20);
+}
+
+.content {
+    padding: 1rem;
+    height: 100vh;
+    background-color: $color-white;
+}
+
+.texts {
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+    gap: 1rem;
+
+    h1 {
+        @include margin-padding;
+        color: #000;
+    }
+
+    a {
+        text-decoration: none;
+        cursor: pointer;
+        color: $color-white;
+        border-radius: .3rem;
+        background-color: #6f38f6;
+        border: .3rem;
+        padding: .3rem;
+    }
+}

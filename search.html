@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+
+    <title>Search</title>
+</head>
+<body>
+    <section class="content">
+        <div class="texts">
+            <h1>Pokedex</h1>
+            <a href="./index.html">Overview</a>
+            </div>
+            <form action="" onsubmit="searchPokemon(event)">
+                <input type="text" name="pokemon" autocomplete="off" placeholder="Digite aqui">
+            </form>
+            <div data-poke-card class="poke-card">
+                <div data-poke-name></div>
+                <div>
+                    <img data-poke-img class="poke-img" src=""/>
+                </div>
+                <div data-poke-id></div>
+                <div data-poke-types class="poke-types"></div>
+                <div data-poke-stats class="poke-stats"></div>
+            </div>
+    </section>
+    <script src="./assets/js/search.js"></script>
+</body>
+</html>

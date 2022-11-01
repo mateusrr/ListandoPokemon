@@ -1,0 +1,38 @@
+form {
+    width: 200px;
+    margin: 20px auto;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+}
+
+.poke-card {
+    max-width: 300px;
+    border-radius: 4px;
+    color: #000;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.poke-stats div {
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    padding: 5px;
+    font-size: 15px;
+    text-transform: capitalize;
+}
+
+.poke-types div {
+    padding: 3px;
+    margin: 3px;
+    border-radius: 4px;
+    border: 1px solid black;
+}
+
+.poke-img {
+    width: 100px;
+    margin: 10px auto;
+}
