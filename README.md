@@ -20,5 +20,5 @@
 
 <h2 align="center">Acesso a aplicação</h2>
 <p align="center">
- Você pode acessar por esse<a href="https://mateusrr.github.io/listandoPokemon/" target="_blank"> link.</a>
+ Você pode acessar por esse<a href="https://mateusrr.github.io/ListandoPokemon/" target="_blank"> link.</a>
  </p>
