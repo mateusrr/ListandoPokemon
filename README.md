@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/72825535/199294052-da9ac328-ff87-4571-af2c-7aca59249ce4.gif">
 </p>
 
-<p align="center"> <img src="https://img.shields.io/github/license/mateusrr/listagemPokemon"/></p>
+<p align="center"> <img src="https://img.shields.io/github/license/mateusrr/ListandoPokemon"/></p>
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO%20&color=GREEN&style=for-the-badge"/>
